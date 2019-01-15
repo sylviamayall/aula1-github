@@ -39,6 +39,6 @@ public class Program {
 		//MediaPreco.calcula();
 		//Ocupacao.calcula();
 		//Datas.Data();
-		Calendario.Calendarios();
+		//Calendario.Calendarios();
 	}	
 }
